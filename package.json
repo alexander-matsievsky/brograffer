@@ -1,0 +1,24 @@
+{
+  "name": "brograffer",
+  "version": "0.0.1",
+  "description": "Graph computing library for web browsers.",
+  "main": "./modules/graph/lib.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander-matsievsky/brograffer.git"
+  },
+  "keywords": [
+    "graph",
+    "graph computing",
+    "web browser"
+  ],
+  "author": "Alexander Matsievsky <alexander.matsievsky@gmx.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexander-matsievsky/brograffer/issues"
+  },
+  "homepage": "https://github.com/alexander-matsievsky/brograffer#readme"
+}
